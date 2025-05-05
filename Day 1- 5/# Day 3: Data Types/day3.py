@@ -1,3 +1,10 @@
+# 1. Text Type:	str
+# 2. Numeric Types:	int, float, complex
+# 3. Sequence Types:	list, tuple, range
+
+
+
+
 # -------------------------------
 # 1. String Data Type (Text Type)
 # -------------------------------
